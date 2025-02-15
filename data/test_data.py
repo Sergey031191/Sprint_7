@@ -25,3 +25,8 @@ class ScooterOrderData:
             "BLACK"
         ]
     }
+
+
+class ErrorMessage:
+    no_login_or_pass_message = "Недостаточно данных для входа"
+    wrong_login_pass_message = "Учетная запись не найдена"
